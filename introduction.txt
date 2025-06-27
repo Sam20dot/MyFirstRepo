@@ -1,0 +1,7 @@
+# Brief Introduction About Myself
+
+My name is Sam, and I am a passionate student of Electronics and Telecommunication Engineering. 
+I am eager to learn new technologies and develop practical skills in software development, embedded systems, and AI.
+
+I am dedicated to using my knowledge to create innovative solutions that can address real-world problems, especially in agriculture and healthcare in Africa.
+This repository marks the beginning of my journey to becoming a skilled engineer and inventor.
